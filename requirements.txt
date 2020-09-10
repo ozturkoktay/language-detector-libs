@@ -1,0 +1,16 @@
+chardet==3.0.4
+click==7.1.2
+guess-language==0.2
+joblib==0.16.0
+langdetect==1.0.8
+langid==1.1.6
+Morfessor==2.0.6
+nltk==3.5
+numpy==1.19.1
+polyglot==16.7.4
+pycld2==0.41
+PyICU==2.5
+regex==2020.7.14
+six==1.15.0
+textblob==0.15.3
+tqdm==4.48.2
